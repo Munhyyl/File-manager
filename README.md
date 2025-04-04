@@ -83,9 +83,4 @@ curl http://<your-ip>:8082/api/files/list?folder=marchDogPhotos
 ## Хэрэглээ
 Энэ сервисийг `Mailer Service`-тэй хамт ашиглан S3 дээрх зургуудыг имэйлээр илгээх боломжтой.
 
-## Лиценз
-MIT License
-```
-
----
 
