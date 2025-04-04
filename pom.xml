@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>fileStorage</artifactId>
+	<artifactId>file-manager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>fileStorage</name>
 	<description>Demo project for Spring Boot</description>
